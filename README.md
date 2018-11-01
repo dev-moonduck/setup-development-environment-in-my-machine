@@ -1,2 +1,5 @@
-# setup-scala-in-my-machine
-What to do after install OS
+# To install after initializing my machine
+
+## Common
+
+## [Scala](./setup-scala.md)
