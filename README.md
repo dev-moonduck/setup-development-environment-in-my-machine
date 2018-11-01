@@ -1,5 +1,5 @@
 # To install after initializing my machine
 
-## Common
+## [Common](./setup-common.md)
 
 ## [Scala](./setup-scala.md)
