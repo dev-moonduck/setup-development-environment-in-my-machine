@@ -1,5 +1,3 @@
-# setup-scala-in-my-machine
-
 # Common
 ## [SBT](https://www.scala-sbt.org/download.html)
 
@@ -9,3 +7,9 @@
 ## [IntelliJ](https://www.jetbrains.com/idea/download/)
 
 ## [Visual studio code](https://code.visualstudio.com/)
+
+
+# SBT setup
+```bash
+alias sbt='sbt.bat'
+```
